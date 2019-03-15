@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# myapp
+this is my app for nginx and i will make it a site which can be accessed from internet.
+Now,let me test github branch and I endit this file a bit.
+>>>>>>> 8d19d148d51cc2f84467f1a8ea0d6d909d100bdd
